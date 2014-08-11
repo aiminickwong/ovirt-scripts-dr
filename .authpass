@@ -1,0 +1,6 @@
+[Auth]
+Username: admin@internal
+Password: SECRET
+Hostname: engine.example.com
+Protocol: https
+Port:     443
